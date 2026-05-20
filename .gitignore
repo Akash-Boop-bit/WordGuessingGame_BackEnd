@@ -7,3 +7,6 @@ client/node_modules/
 server/node_modules/
 client/dist/
 server/dist/
+index.js
+questions.js
+types.js
